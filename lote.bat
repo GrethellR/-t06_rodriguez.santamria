@@ -41,3 +41,7 @@ python rodriguez/simple10.py "Jhon", 18
 python rodriguez/doble01.py "Julia", 18
 python rodriguez/doble01.py "Jackson", 13
 python rodriguez/doble01.py "Julio", 22
+
+python rodriguez/doble02.py "Maria", 122
+python rodriguez/doble02.py "Josh", 220
+python rodriguez/doble02.py "Carla", 22
