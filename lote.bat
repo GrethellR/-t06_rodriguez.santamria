@@ -58,3 +58,6 @@ python rodriguez/doble05.py "Coronado", 5
 python rodriguez/doble05.py "Garcia", 0
 python rodriguez/doble05.py "Mendez", 8
 
+python rodriguez/doble05.py "Maria", 1
+python rodriguez/doble05.py "Guadalupe", 2
+python rodriguez/doble05.py "Emilia", 3
