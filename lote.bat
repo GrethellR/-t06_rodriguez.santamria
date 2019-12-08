@@ -13,3 +13,7 @@ python rodriguez/simple03.py "Juan", 18
 python rodriguez/simple04.py 20
 python rodriguez/simple04.py 36
 python rodriguez/simple04.py 760
+
+python rodriguez/simple05.py "Romero", 5
+python rodriguez/simple05.py "Fiestas", 10
+python rodriguez/simple05.py "Chevez", 7
