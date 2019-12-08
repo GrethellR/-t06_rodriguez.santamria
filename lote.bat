@@ -50,3 +50,7 @@ python rodriguez/doble03.py "Monica", 8
 python rodriguez/doble03.py "Laura", 13
 python rodriguez/doble03.py "Sofia", 18
 
+python rodriguez/doble04.py 1345
+python rodriguez/doble04.py 67
+python rodriguez/doble04.py -18
+
