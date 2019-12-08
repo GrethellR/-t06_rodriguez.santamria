@@ -9,3 +9,7 @@ python rodriguez/simple02.py "Juana", 155
 python rodriguez/simple03.py "Cristian", 15
 python rodriguez/simple03.py "Monica", 14
 python rodriguez/simple03.py "Juan", 18
+
+python rodriguez/simple04.py 20
+python rodriguez/simple04.py 36
+python rodriguez/simple04.py 760

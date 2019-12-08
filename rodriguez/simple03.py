@@ -11,7 +11,7 @@ nota=int(os.sys.argv[2])
 
 #PROCESSING
 #Si la nota del alumno es mayor a 14
-#monstrar "¡Estas aprobado!"
+#mostrar "¡Estas aprobado!"
 aprobado=(nota >= 14)
 
 if (nota >= 14):

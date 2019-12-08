@@ -11,6 +11,7 @@ edad=int(os.sys.argv[2])
 
 #PROCESSING
 #Si el usuario es menor de edad no podra entrar al cine
+#mostrar "¡Hasta la proxima!"
 menor_edad=(edad < 18)
 
 if (edad < 18):
