@@ -65,3 +65,7 @@ python rodriguez/doble06.py "Emilia", 3
 python rodriguez/doble07.py "Clotilde", 3
 python rodriguez/doble07.py "Nataly", 1
 python rodriguez/doble07.py "Eduardo", 2
+
+python rodriguez/doble08.py "Julio Iglesias", 6
+python rodriguez/doble08.py "Eduardo Barreto", 10
+python rodriguez/doble08.py "Juan Ramirez", 3
