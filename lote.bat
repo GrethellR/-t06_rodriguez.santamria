@@ -26,3 +26,6 @@ python rodriguez/simple07.py "Alejandro", 9
 python rodriguez/simple07.py "Azucena", 4
 python rodriguez/simple07.py "Ana", 12
 
+python rodriguez/simple08.py "Camilo", 5
+python rodriguez/simple08.py "Jorge", 10
+python rodriguez/simple08.py "Moises", 12
