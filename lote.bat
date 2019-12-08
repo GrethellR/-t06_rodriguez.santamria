@@ -54,3 +54,7 @@ python rodriguez/doble04.py 1345
 python rodriguez/doble04.py 67
 python rodriguez/doble04.py -18
 
+python rodriguez/doble05.py "Coronado", 5
+python rodriguez/doble05.py "Garcia", 0
+python rodriguez/doble05.py "Mendez", 8
+
