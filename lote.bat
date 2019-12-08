@@ -17,3 +17,7 @@ python rodriguez/simple04.py 760
 python rodriguez/simple05.py "Romero", 5
 python rodriguez/simple05.py "Fiestas", 10
 python rodriguez/simple05.py "Chevez", 7
+
+python rodriguez/simple06.py "Abigail", 4
+python rodriguez/simple06.py "Carolina", 6
+python rodriguez/simple06.py "Alejandra", 3
