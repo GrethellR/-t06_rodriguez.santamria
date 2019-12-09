@@ -109,3 +109,7 @@ python rodriguez/multiples07.py  120
 python rodriguez/multiples08.py  1
 python rodriguez/multiples08.py  12
 python rodriguez/multiples08.py  61
+
+python rodriguez/multiples09.py "German Fiestas", 2500
+python rodriguez/multiples09.py  "Julia Flores",  650
+python rodriguez/multiples09.py  "Martin Ojeda",  1750
