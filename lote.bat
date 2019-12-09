@@ -74,3 +74,6 @@ python rodriguez/doble09.py "Patricia", 4
 python rodriguez/doble09.py "Juan Carlos", 6
 python rodriguez/doble09.py "Fernando", 2
 
+python rodriguez/doble10.py "Claudia", 15
+python rodriguez/doble10.py "Fernanda", 11
+python rodriguez/doble10.py "Pedro", 2
