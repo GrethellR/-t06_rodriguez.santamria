@@ -101,3 +101,7 @@ python rodriguez/multiples05.py  19
 python rodriguez/multiples06.py  19
 python rodriguez/multiples06.py  14
 python rodriguez/multiples06.py  31
+
+python rodriguez/multiples07.py  50
+python rodriguez/multiples07.py  68
+python rodriguez/multiples07.py  120
