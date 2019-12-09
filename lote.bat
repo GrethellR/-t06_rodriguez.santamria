@@ -81,3 +81,8 @@ python rodriguez/doble10.py "Pedro", 2
 python rodriguez/multiples01.py 6 13 11
 python rodriguez/multiples01.py 12 14 16
 python rodriguez/multiples01.py 18 17 18
+
+python rodriguez/multiples02.py "Joaquina", 20
+python rodriguez/multiples02.py "Lucrecia", 1818
+python rodriguez/multiples02.py "Mario", 1180
+
