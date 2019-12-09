@@ -86,3 +86,10 @@ python rodriguez/multiples02.py "Joaquina", 20
 python rodriguez/multiples02.py "Lucrecia", 1818
 python rodriguez/multiples02.py "Mario", 1180
 
+python rodriguez/multiples03.py "Luis", 0
+python rodriguez/multiples03.py "Marcos", 5
+python rodriguez/multiples03.py "Martin", 13
+
+python rodriguez/multiples04.py "Jose", 5
+python rodriguez/multiples04.py "Mercedes", 12
+python rodriguez/multiples04.py "Mesias", 18
