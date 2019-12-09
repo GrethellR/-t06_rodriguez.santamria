@@ -10,7 +10,8 @@ precio_final=0.0
 
 #Input vis os
 cantidad=int(os.sys.argv[1])
-precio_original=int(os.sys.argv[1])
+precio_original=int(os.sys.argv[2])
+
 #Processing
 costo=cantidad*precio_original
 descuento=costo*0.1

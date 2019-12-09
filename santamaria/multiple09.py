@@ -14,7 +14,7 @@ edad=int(os.sys.argv[2])
 if (edad>=1 and edad<=5):
     print(apellidos,"Esta en la etapa de la Infancia ")
 #Si tiene 6año a 12años (Esta en la etapa de la niñez)
-if (edad>=6 and edad1<=12):
+if (edad>=6 and edad<=12):
     print(apellidos,"Esta en la etapa de la Niñez")
 #Si tiene 13año a 20años (Esta en la etapa de la adolescencia)
 if (edad>=13 and edad<=20):
