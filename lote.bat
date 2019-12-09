@@ -98,3 +98,6 @@ python rodriguez/multiples05.py  53
 python rodriguez/multiples05.py  2
 python rodriguez/multiples05.py  19
 
+python rodriguez/multiples06.py  19
+python rodriguez/multiples06.py  14
+python rodriguez/multiples06.py  31
