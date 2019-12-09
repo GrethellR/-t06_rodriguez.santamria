@@ -93,3 +93,8 @@ python rodriguez/multiples03.py "Martin", 13
 python rodriguez/multiples04.py "Jose", 5
 python rodriguez/multiples04.py "Mercedes", 12
 python rodriguez/multiples04.py "Mesias", 18
+
+python rodriguez/multiples05.py  53
+python rodriguez/multiples05.py  2
+python rodriguez/multiples05.py  19
+
